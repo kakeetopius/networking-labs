@@ -35,6 +35,7 @@ networking-labs/
 ├── 04-security/
 ├── 05-data-center/
 └── 06-automation/
+└── misc/                       <- Some miscellaneous guides or documentation.
 ```
 
 ## Lab index
