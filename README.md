@@ -51,4 +51,5 @@ networking-labs/
 
 ## License
 
-Documentation and configs are released under the [MIT License](LICENSE). Vendor software and images remain the property of their respective owners.
+Documentation and configs are released under the [MIT License](LICENSE).  
+Vendor software and images remain the property of their respective owners.
